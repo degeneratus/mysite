@@ -2,6 +2,7 @@
 html,
 body {
     height: 100%;
+    font-size: 14px;
     background-color: #8d8ca0;
 }
 
@@ -73,6 +74,7 @@ li a {
 }
 
 .myImg {
+    display: flex;
     justify-content: center;
     margin-right: auto;
     margin-left: auto;
