@@ -64,11 +64,10 @@ li a {
 
 .data {
     display: flex;
-    align-items: space-around;
+    align-items: center;
 }
 
 .fullname {
-    justify-content: center;
     margin-left: auto;
     margin-right: auto;
 }
